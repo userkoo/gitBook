@@ -2,9 +2,8 @@
 coverY: 0
 ---
 
-# 구본근
+# Welcome!
 
-## 신입 개발자 구본근ㄴㅁㅁㄴㅇㅁㄴ
+## Welcome aboard!
 
-![](.gitbook/assets/asdasdasfqwr32342352345345.jpg)
-
+Welcome to the company wiki! Here you'll find everything you need to know about the company.
