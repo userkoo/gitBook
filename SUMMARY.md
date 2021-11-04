@@ -2,10 +2,10 @@
 
 * [구본근](README.md)
 
-## The Company
+## 프로젝트 소개
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [I Learn E (아이러니)](undefined-1/i-learn-e.md)
+* [Meet the Team!](undefined-1/meet-the-team.md)
 
 ## The Formal Stuff
 
