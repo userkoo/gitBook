@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [구본근](README.md)
 
 ## The Company
 
