@@ -1,6 +1,6 @@
-# 구본근 포트폴리오
+# Bongean-KOO
 
-* ### 🚀'개발자' 홍길동을 소개합니다. <a href="ecba6588-f835-42c0-a7c9-4614e0ecb11c" id="ecba6588-f835-42c0-a7c9-4614e0ecb11c"></a>
+### ,🚀'개발자' 홍길동을 소개합니다. <a href="ecba6588-f835-42c0-a7c9-4614e0ecb11c" id="ecba6588-f835-42c0-a7c9-4614e0ecb11c"></a>
 
 ![](.gitbook/assets/asdasdasfqwr32342352345345.jpg)
 
@@ -16,6 +16,8 @@
 
 🏡 경기도 용인시 수지구 진산로
 
+✏Education
+
 | 재학기간                     | 교육기관 명       | 전공                      | 구분 |
 | ------------------------ | ------------ | ----------------------- | -- |
 | 2021.05.06 \~ 2021.10.25 | 더조은 컴퓨터 아카데미 | 자바 기반 안드로이드 앱 개발 B\_스마트 | 수료 |
@@ -24,27 +26,17 @@
 
 ***
 
+***
+
 ### 🚀 경험한 기술 <a href="ee617614-0f5b-4b90-8829-774bf4b9f1af" id="ee617614-0f5b-4b90-8829-774bf4b9f1af"></a>
 
-#### &#x20;<a href="752d191d-2620-4e69-a4e0-ff3c8280e2f2" id="752d191d-2620-4e69-a4e0-ff3c8280e2f2"></a>
+<table><thead><tr><th data-type="select"></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>HTML5, CSS3, Thymeleaf</td><td></td></tr><tr><td></td><td>JavaScript, Java OpenJDK 1.8.0</td><td></td></tr><tr><td></td><td>Windows 10 64bit</td><td></td></tr><tr><td></td><td>PostgreSQL</td><td></td></tr><tr><td></td><td>Source Tree, GitLab</td><td></td></tr><tr><td></td><td>DBeaver, Spring Tool Suite4</td><td></td></tr><tr><td></td><td>jQuery 3.6.0, LOMBOCK</td><td></td></tr><tr><td></td><td>Apache-tomcat 8.5.68-windows-x64</td><td></td></tr><tr><td></td><td>Nottion</td><td></td></tr><tr><td></td><td>Spring Data JPA</td><td></td></tr><tr><td></td><td>Spring, jUnit5</td><td></td></tr></tbody></table>
 
-***
+&#x20;&#x20;
 
-#### 제목을 씁니다 <a href="8a76cb68-91ef-4db7-8d5a-2f12b14bbe4a" id="8a76cb68-91ef-4db7-8d5a-2f12b14bbe4a"></a>
 
-이야기를 씁니다
 
-#### 제목을 씁니다 <a href="a358de7b-71bf-463d-9a8c-b4b137a5c332" id="a358de7b-71bf-463d-9a8c-b4b137a5c332"></a>
-
-이야기를 씁니다
-
-#### 제목을 씁니다 <a href="9288c738-cb4b-4c9b-a4d5-fafe325c94c2" id="9288c738-cb4b-4c9b-a4d5-fafe325c94c2"></a>
-
-이야기를 씁니다
-
-***
-
-### 🚀포트폴리오 보 <a href="13992f2a-0438-4403-a011-68fd3f86be8e" id="13992f2a-0438-4403-a011-68fd3f86be8e"></a>
+### 🚀포트폴리오 보기 <a href="13992f2a-0438-4403-a011-68fd3f86be8e" id="13992f2a-0438-4403-a011-68fd3f86be8e"></a>
 
 #### 제목을 씁니다 <a href="8432d409-d861-4adc-afdd-88637232a280" id="8432d409-d861-4adc-afdd-88637232a280"></a>
 
@@ -53,7 +45,5 @@
 #### 제목을 씁니다 <a href="d5c65c3b-0b11-4e2f-9a72-3b59829381a3" id="d5c65c3b-0b11-4e2f-9a72-3b59829381a3"></a>
 
 이야기를 씁니다
-
-***
 
 ***
