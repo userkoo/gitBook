@@ -1,6 +1,6 @@
 # Table of contents
 
-* [구본근](README.md)
+* [구본근짱](README.md)
 
 ## 프로젝트 소개
 
