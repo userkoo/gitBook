@@ -1,6 +1,6 @@
 # 구본근 포트폴리오
 
-<img src=".gitbook/assets/asdasdasfqwr32342352345345.jpg" width="300" height="300">
+<img src=".gitbook/assets/asdasdasfqwr32342352345345.jpg" width="300">
 
 
 
