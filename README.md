@@ -100,9 +100,21 @@ Thyme leaf
 
 ![](.gitbook/assets/파이널이미지.PNG)
 
+{% content-ref url="portfolio/i-learn-e/" %}
+[i-learn-e](portfolio/i-learn-e/)
+{% endcontent-ref %}
+
+
+
+
+
 [Let IT Go](https://app.gitbook.com/s/1S9aj4noxY3lVnRXaTTO/c/xs6aRyBniyY5jQmzXEds/portfolio/let-it-go)
 
 ![](.gitbook/assets/세미사진.PNG)
+
+{% content-ref url="portfolio/let-it-go.md" %}
+[let-it-go.md](portfolio/let-it-go.md)
+{% endcontent-ref %}
 
 
 
