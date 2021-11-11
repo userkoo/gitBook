@@ -16,7 +16,7 @@ description: 프로젝트 계획 수립, 제안 요청, 업무 분석 및 요건
 
 ### 1-2.  회의
 
-<img src="../../.gitbook/assets/회의록.PNG" width="800" >
+<img src="../../.gitbook/assets/회의록.PNG" width="1500" >
 
 
 
