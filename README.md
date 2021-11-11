@@ -1,6 +1,6 @@
 # Bongean-KOO
 
-### [Next - PORTFOLIOI LEARN E(아이러니)](https://app.gitbook.com/s/1S9aj4noxY3lVnRXaTTO/c/OuSJyAtEgAuZ32Ky0V45/portfolio/i-learn-e),🚀'개발자' 구본근을 소개합니다. <a href="ecba6588-f835-42c0-a7c9-4614e0ecb11c" id="ecba6588-f835-42c0-a7c9-4614e0ecb11c"></a>
+### 🚀'개발자' 구본근을 소개합니다. <a href="ecba6588-f835-42c0-a7c9-4614e0ecb11c" id="ecba6588-f835-42c0-a7c9-4614e0ecb11c"></a>
 
 ![](.gitbook/assets/asdasdasfqwr32342352345345.jpg)
 
