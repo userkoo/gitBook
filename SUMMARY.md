@@ -8,5 +8,8 @@
 
 * [I LEARN E(아이러니)](portfolio/i-learn-e/README.md)
   * [기획](portfolio/i-learn-e/undefined.md)
-  * [Page 1](portfolio/i-learn-e/page-1.md)
-* [Let IT Go](portfolio/let-it-go.md)
+  * [설계](portfolio/i-learn-e/page-1.md)
+  * [구현](portfolio/i-learn-e/undefined-1.md)
+  * [마치며](portfolio/i-learn-e/undefined-2.md)
+* [Let IT Go](portfolio/let-it-go/README.md)
+  * [기획](portfolio/let-it-go/undefined.md)

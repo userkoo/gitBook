@@ -112,8 +112,8 @@ Thyme leaf
 
 ![](.gitbook/assets/세미사진.PNG)
 
-{% content-ref url="portfolio/let-it-go.md" %}
-[let-it-go.md](portfolio/let-it-go.md)
+{% content-ref url="portfolio/let-it-go/" %}
+[let-it-go](portfolio/let-it-go/)
 {% endcontent-ref %}
 
 
