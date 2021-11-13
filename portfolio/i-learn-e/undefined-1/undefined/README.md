@@ -4,13 +4,13 @@
 
 ### A. 단위 업무 흐름도
 
-![단위 업무 흐름도](<../../../.gitbook/assets/조회 단위업무정이ㅡ서.PNG>)
+![단위 업무 흐름도](<../../../../.gitbook/assets/조회 단위업무정이ㅡ서.PNG>)
 
 > 수강생 전체 조회는 메인 페이지에서 수강생 현황 메뉴 아래의 수강생 전체 조회를 선택하면 데이터 베이스에서 수강생 정보를 조회하여 화면에 보여주게 됩니다.
 
 ### B. 데이터 베이스 모델
 
-![회원(Member) 테이블](<../../../.gitbook/assets/수강리스트 테이블.PNG>)
+![회원(Member) 테이블](<../../../../.gitbook/assets/수강리스트 테이블.PNG>)
 
 > 해당 기능을 구현하기 위해 필요한 엔티티 입니다.&#x20;
 >
@@ -18,7 +18,7 @@
 
 ### C. 화면정의서
 
-![수강 리스트 화면 정의서 ](../../../.gitbook/assets/수강리스트화면정의서.PNG)
+![수강 리스트 화면 정의서 ](../../../../.gitbook/assets/수강리스트화면정의서.PNG)
 
 > 권한이 있는 아이디로 로그인 후, 상단바의 원생 관리 탭을 클릭 후 수강생 현황에 들어가면 등록된 수강생의 현황 리스트가 조회되며  한 페이지에 총 20명씩 조회가 가능합니다.
 >
@@ -26,13 +26,13 @@
 
 ### D. 시퀀스 다이어그램
 
-![시퀀스 다이어그램](<../../../.gitbook/assets/수강 전체조회 시퀀스.PNG>)
+![시퀀스 다이어그램](<../../../../.gitbook/assets/수강 전체조회 시퀀스.PNG>)
 
 > 수강생 전체 조회 화면에 들어가면 DB에서 수강생 리스트를 조회하여 view로 뿌려줍니다.&#x20;
 
 ### 1-1) 구현 화면
 
-![수강생 전체 조회 화면](../../../.gitbook/assets/그림1.png)
+![수강생 전체 조회 화면](../../../../.gitbook/assets/그림1.png)
 
 > &#x20;퇴원생은 빨간색 휴원생은 파란색으로 표시됩니다.
 >
@@ -42,7 +42,7 @@
 
 * Controller
 
-![Controller](../../../.gitbook/assets/전체조회컨트롤.PNG)
+![Controller](../../../../.gitbook/assets/전체조회컨트롤.PNG)
 
 {% hint style="info" %}
 JPA를 사용하여 구현하였습니다.&#x20;
@@ -54,7 +54,7 @@ JPA를 사용하여 구현하였습니다.&#x20;
 
 * ServiceImpl
 
-![ServiceImpl](../../../.gitbook/assets/전체조회서비스.PNG)
+![ServiceImpl](../../../../.gitbook/assets/전체조회서비스.PNG)
 
 {% hint style="info" %}
 Repository에서 받은 결과를 memberList 변수로 선언하여 return 해주었습니다.
@@ -64,9 +64,9 @@ Repository에서 받은 결과를 memberList 변수로 선언하여 return 해�
 
 * RepositoryImpl
 
-![RepositoryImpl](../../../.gitbook/assets/전체조회레포지토리.PNG)
+![RepositoryImpl](../../../../.gitbook/assets/전체조회레포지토리.PNG)
 
-![RepositoryImpl](../../../.gitbook/assets/전체조회레포지토리2.PNG)
+![RepositoryImpl](../../../../.gitbook/assets/전체조회레포지토리2.PNG)
 
 {% hint style="info" %}
 '상담생' 은 제외 하기 때문에 Where절을 통해 조건을 주었으며, 검색 조건들을 메소드로 만들어 조건 절에 포함 시켜 주었습니다. 검색 조건을 메소드로 만들어 주어  해당 로직 말고 다른 로직에서도 같은 검색 조건을 사용 할 수 있게 재사용성을 높일 수 있었습니다.&#x20;
@@ -78,7 +78,7 @@ Repository에서 받은 결과를 memberList 변수로 선언하여 return 해�
 
 ### A. 단위 업무 흐름도
 
-![](<../../../.gitbook/assets/수강생 등록 흐름도 (1).PNG>)
+![](<../../../../.gitbook/assets/수강생 등록 흐름도 (1).PNG>)
 
 > 수강생을 등록하기 위해 수강생 리스트 조회 화면에서 '등록하기' 버튼을 눌러 수강생 등록 화면으로 보여집니다.&#x20;
 >
@@ -86,25 +86,25 @@ Repository에서 받은 결과를 memberList 변수로 선언하여 return 해�
 
 ### B. 데이터 베이스 모델
 
-![](<../../../.gitbook/assets/수강생 등록 디비.PNG>)
+![](<../../../../.gitbook/assets/수강생 등록 디비.PNG>)
 
 ### C. 화면 정의서
 
-![](../../../.gitbook/assets/수강생등록정의서.PNG)
+![](../../../../.gitbook/assets/수강생등록정의서.PNG)
 
 > 수강생 등록 화면입니다.  수강생의 정보를 입력 후 등록하기 버튼을 누르면 DB에 Insert됩니다.&#x20;
 
 ### D. 시퀀스 다이어그램
 
-![](<../../../.gitbook/assets/수강생 등록 시퀀스.PNG>)
+![](<../../../../.gitbook/assets/수강생 등록 시퀀스.PNG>)
 
 > 등록을 하면 DB에 저장 된 후 결과 result를 return합니다.
 
-![](<../../../.gitbook/assets/직원조회 시퀀스.PNG>)
+![](<../../../../.gitbook/assets/직원조회 시퀀스.PNG>)
 
 > 등록을 하기 전에 담당 직원을 입력해야 하기 때문에 직원을 DB에서 조회하여 list로 반환합니다.
 
-![수강생 등록 화면](<../../../.gitbook/assets/등록 화면.PNG>)
+![수강생 등록 화면](<../../../../.gitbook/assets/등록 화면.PNG>)
 
 ### 2-1) 구현 화면
 
@@ -114,7 +114,7 @@ Repository에서 받은 결과를 memberList 변수로 선언하여 return 해�
 
 * 등록을 위한 Form 객체
 
-![Form 객체인 MemberForm Class](<../../../.gitbook/assets/등록 폼객체.PNG>)
+![Form 객체인 MemberForm Class](<../../../../.gitbook/assets/등록 폼객체.PNG>)
 
 {% hint style="info" %}
 원생 등록 할 때 필요한 변수들을 선언해 주었고, hibernate-validator 어노테이션을 사용하여 필수 값을 예외 처리해주었습니다.
@@ -124,7 +124,7 @@ Repository에서 받은 결과를 memberList 변수로 선언하여 return 해�
 
 * 수강생 등록 Controller
 
-![](../../../.gitbook/assets/등록컨트롤러.PNG)
+![](../../../../.gitbook/assets/등록컨트롤러.PNG)
 
 {% hint style="info" %}
 view에서 사용자가 입력하여 전달 받은 객체인 MemberForm에 @Valid나 @Validated 어노테이션을 붙여주고 BindingResult를 사용하여 어떤 오류가 발생했나 알려주는 방법으로 예외처리를 하였습니다.(Validator를 상속받는 클래스에서 객체값을 검증하는 방식)
@@ -132,11 +132,11 @@ view에서 사용자가 입력하여 전달 받은 객체인 MemberForm에 @Vali
 
 * 예외처리 된 화면
 
-![예외처리 된 화면](../../../.gitbook/assets/예외처리된화면.PNG)
+![예외처리 된 화면](../../../../.gitbook/assets/예외처리된화면.PNG)
 
 * 수강생 등록 ServiceImpl
 
-![](../../../.gitbook/assets/등록서비스.PNG)
+![](../../../../.gitbook/assets/등록서비스.PNG)
 
 {% hint style="info" %}
 등록 Form 객체에서 받은 값을 Member Entity에 set을 해주었습니다.
@@ -148,7 +148,7 @@ view에서 사용자가 입력하여 전달 받은 객체인 MemberForm에 @Vali
 
 * 직원 검색 DTO
 
-![](../../../.gitbook/assets/직원생성.PNG)
+![](../../../../.gitbook/assets/직원생성.PNG)
 
 {% hint style="info" %}
 직원 조회를 위한 DTO입니다. QueryDSL을 사용하기 위해서 QueryProjection 어노테이션을 달아주어 Q타입 객체 생성해주었습니다.
@@ -158,21 +158,21 @@ view에서 사용자가 입력하여 전달 받은 객체인 MemberForm에 @Vali
 
 * 직원 검색 Controller
 
-![](<../../../.gitbook/assets/직원 controller.PNG>)
+![](<../../../../.gitbook/assets/직원 controller.PNG>)
 
 * 직원 검색 ServiceImpl
 
-![](<../../../.gitbook/assets/직원 서비스.PNG>)
+![](<../../../../.gitbook/assets/직원 서비스.PNG>)
 
 * 직원 검색 RepositoryImpl
 
-![](<../../../.gitbook/assets/직원검색 레포지.PNG>)
+![](<../../../../.gitbook/assets/직원검색 레포지.PNG>)
 
 ## (3) 수강생 수정
 
 ### A. 단위 업무 흐름도
 
-![](<../../../.gitbook/assets/스깅셍 수정 흐름도.PNG>)
+![](<../../../../.gitbook/assets/스깅셍 수정 흐름도.PNG>)
 
 > 수강생 정보를 수정하기 위해선 우선 수강생의 상세 정보 화면으로 들어갑니다.&#x20;
 >
@@ -180,19 +180,19 @@ view에서 사용자가 입력하여 전달 받은 객체인 MemberForm에 @Vali
 
 ### B. 데이터 베이스 모델
 
-![](../../../.gitbook/assets/수강생수정디비.PNG)
+![](../../../../.gitbook/assets/수강생수정디비.PNG)
 
 > 수강생 수정을 하는데 사용한 테이블입니다. 기존의 회원 정보를 변경 이력 테이블에 insert해주고, 변경된 정보는 회원(member)테이블에 update 해주었습니다.
 
 ### C. 화면 정의서
 
-![](<../../../.gitbook/assets/수강생 수정 화면정의서.PNG>)
+![](<../../../../.gitbook/assets/수강생 수정 화면정의서.PNG>)
 
 > 수강생 상세 조회 화면이자 수정화면입니다. 수정할 정보를 수정 후 '수정하기' 버튼을 클릭하면 수강생의 정보가 update 되며, 동시에 기존의 정보는 변경이력 테이블에 insert가 됩니다.&#x20;
 
 ### D. 시퀀스 다이어그램
 
-![](<../../../.gitbook/assets/수강생 수정 시퀀스.PNG>)
+![](<../../../../.gitbook/assets/수강생 수정 시퀀스.PNG>)
 
 > 수정하기 전 수강생 상세 조회를 해야하기 때문에 우선적으로 상세조회를 DB에서 해줍니다.
 >
@@ -204,53 +204,19 @@ view에서 사용자가 입력하여 전달 받은 객체인 MemberForm에 @Vali
 
 ## 3) 수강생 상세 조회
 
-![](<../../../.gitbook/assets/수강생 상세조회.PNG>)
+![상세 조회 구현 화면](<../../../../.gitbook/assets/수강생 상세조회.PNG>)
 
 ### 화면 설명
 
 > 상세 조회 페이지 겸 수정 페이지 입니다.
 >
-> 상담생 관리, 반 배정 현황, 수납 현황, 출결 현황 탭으로 이동할 수 있는 기점 페이지이며 이미지 업로드와 수강생의 정보 수정이 가능합니다.&#x20;
+> **상담생 관리, 반 배정 현황, 수납 현황, 출결 현황 탭으로 이동**할 수 있는 **기점 페이지**이며 이미지 업로드와 수강생의 정보 수정이 가능합니다.&#x20;
 
 ### 구현 코드
 
-![](<../../../.gitbook/assets/수강 상세조회띠 (2).PNG>)
-
-## 3-1) 상담생 관리
+![](<../../../../.gitbook/assets/수강 상세조회띠 (2).PNG>)
 
 
-
-![사용한 테이블](<../../../.gitbook/assets/상담 사용 테이블.PNG>)
-
-상담생 관리 탭을 구현 하면서 사용한 테이블 입니다.&#x20;
-
-### A. 전체 리스트 조회
-
-![화면](<../../../.gitbook/assets/상담생 관리.PNG>)
-
-### 화면 설명
-
-> 수강생의 상담 내역을 조회 할 수 있는 화면입니다.&#x20;
->
-> 상담 구분 등 조건으로 검색을 통해 상담 내역을 찾을 수 있으며, 우측의 상담 내역 추가로 새로운 상담 내역을 등록 할 수 있습니다.&#x20;
->
-> 조회 된 상담 내역을 보려면 상세보기 버튼을, 수정하려면 수정 버튼 삭제하려면 삭제 버튼을 누르면 해당 기능이 수행 됩니다.
-
-### 구현 코드&#x20;
-
-![](<../../../.gitbook/assets/상담생 컨트롤서비스 (1).PNG>)
-
-![](<../../../.gitbook/assets/상담생 레파지토리.PNG>)
-
-
-
-## 3-2) 반 배정 현황
-
-## 3-3) 수납 현황
-
-## 3-4) 출결 현황&#x20;
-
-###
 
 
 
