@@ -102,8 +102,8 @@ description: 프로젝트 계획 수립, 제안 요청, 업무 분석 및 요건
 
 ### 3-5. 프로토타이핑
 
-{% embed url="https://www.figma.com/proto/BUtGzp5DJDOW6Bwlc49lQH/I-Learn-E-(%EC%95%84%EC%9D%B4%EB%9F%AC%EB%8B%88)?embed_host=notion&kind=&node-id=595%3A19614&page-id=595%3A228&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=595%3A19702&viewport=269%2C48%2C0.02" %}
-오른쪽 상단의 확대 버튼을 누르면 전체화면으로 전환됩니다.
+{% embed url="https://www.figma.com/proto/98dV7SOYR2upXeqIQ0ARWU/%EC%95%84%EB%8B%88%EB%9F%AC%EB%8B%88-%EC%84%AC%EB%A9%80%ED%8B%B0?node-id=86%3A15585&page-id=0%3A1&scaling=scale-down-width&show-proto-sidebar=1&starting-point-node-id=86%3A15673&viewport=241%2C48%2C0.02" %}
+z키 를 눌러서 화면비를 조절 할 수 있습니다.
 {% endembed %}
 
 프로토타이핑을 만들어 저희가 만들 프로그램의 기능을 점검하고 발생할 문제점을 미리 파악하여 프로젝트에 대한 이해도를 한층 더 높일 수 있었습니다.
