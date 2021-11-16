@@ -254,6 +254,22 @@ view에서 사용자가 입력하여 전달 받은 객체인 MemberForm에 @Vali
 
 ![](<../../../../../.gitbook/assets/상세조회 serviceImpl.PNG>)
 
+{% hint style="warning" %}
+제공 메소드인 findById를 사용 할 때, return을 member 타입으로 받았습니다.&#x20;
+
+하지만 에러 표시인 빨간 줄이 뜨길래, 해당 메소드를 타고 들어가 보니 타입이 Optional 이였습니다.&#x20;
+
+찾아 보니 findById는 Optional를 리턴 타입으로 반환하는 메서드로 get()을 이용해 반환된 객체를 꺼내 쓸 수 있다고 하여 .get()을 붙여줌으로써 해결을 하였습니다.
+{% endhint %}
+
+{% hint style="danger" %}
+&#x20;isPresent() 로 null 체크를 해줘야 합니다. 해당 로직들은 전부 수정 할 예정입니다.
+{% endhint %}
+
+
+
+
+
 * RepositoryImpl
 
 ![](<../../../../../.gitbook/assets/상세조회 Repository.PNG>)
