@@ -16,8 +16,8 @@ description: 원생 관리의 하위 카테고리에는 수강생 현황과 입�
 
 
 
-{% content-ref url="undefined-1.md" %}
-[undefined-1.md](undefined-1.md)
+{% content-ref url="undefined-1/" %}
+[undefined-1](undefined-1/)
 {% endcontent-ref %}
 
 
