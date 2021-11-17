@@ -76,7 +76,7 @@
 
 ![](../../../../../../.gitbook/assets/출결수정화면.PNG)
 
-![](<../../../../../../.gitbook/assets/image (1).png>)
+![](<../../../../../../.gitbook/assets/image (1) (1).png>)
 
 ### 화면 설명
 
