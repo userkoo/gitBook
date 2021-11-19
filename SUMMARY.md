@@ -27,5 +27,4 @@
       * [업무일지 상세조회/수정](portfolio/i-learn-e/undefined-1/undefined-1/undefined-1.md)
       * [업무일지 등록/삭제](portfolio/i-learn-e/undefined-1/undefined-1/undefined-2.md)
   * [프로젝트 후기](portfolio/i-learn-e/undefined-2.md)
-* [Let IT Go](portfolio/let-it-go/README.md)
-  * [기획](portfolio/let-it-go/undefined.md)
+* [Let IT Go](portfolio/let-it-go.md)

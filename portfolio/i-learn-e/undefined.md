@@ -12,13 +12,19 @@ description: 프로젝트 계획 수립, 제안 요청, 업무 분석 및 요건
 
 노션을 사용하여 WBS(work-breakdown structure) 형식으로 하여, 기획 단계부터 개발까지 일정을 수립하였으며, 당겨지거나 밀린 일정들은 바로바로 업데이트 해주어 지정된 기간 안에 일정대로 마무리 할 수 었습니다.
 
-
+{% embed url="https://swamp-wind-e84.notion.site/WBS-36cca03c696e4510a73b511cef1f9c70" %}
+노션 - 전체 일정관리 WBS
+{% endembed %}
 
 ### 1-2. 회의록
 
 ![](../../.gitbook/assets/회의록.PNG)
 
 회의가 발생할 건이 생기면 팀원이 모두 모여 회의를 해당 안건에 대해 회의를 진행하여 기록하여 두었습니다.&#x20;
+
+{% embed url="https://www.notion.so/a2932aec3a40427281c98df03f1e6262" %}
+노션 - 회의록
+{% endembed %}
 
 ## 2. 제안 요청
 

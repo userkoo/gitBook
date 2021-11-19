@@ -44,6 +44,10 @@ Postgres와 JPA를 사용하기로 정하면서 형상관리 툴도 SourceTree�
 
 
 
+* 아이러니 프로젝트를 진행하며 나온 산출물입니다.
+
+{% embed url="https://www.notion.so/2-I-Learn-E-0288cd9be83b4b8ab902a89f3aa564fb" %}
+
 
 
 &#x20;
