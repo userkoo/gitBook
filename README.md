@@ -1,6 +1,6 @@
 # Bongean-KOO
 
-### 🚀'개발자' 구본근을 소개합니다. <a href="ecba6588-f835-42c0-a7c9-4614e0ecb11c" id="ecba6588-f835-42c0-a7c9-4614e0ecb11c"></a>
+### 🚀'개발자' 구본근을 소개합니다. <a href="#ecba6588-f835-42c0-a7c9-4614e0ecb11c" id="ecba6588-f835-42c0-a7c9-4614e0ecb11c"></a>
 
 ![](.gitbook/assets/asdasdasfqwr32342352345345.jpg)
 
@@ -22,7 +22,7 @@
 
 ***
 
-## 🚀 자기소개 <a href="ee617614-0f5b-4b90-8829-774bf4b9f1af" id="ee617614-0f5b-4b90-8829-774bf4b9f1af"></a>
+## 🚀 자기소개 <a href="#ee617614-0f5b-4b90-8829-774bf4b9f1af" id="ee617614-0f5b-4b90-8829-774bf4b9f1af"></a>
 
 >
 >
@@ -42,27 +42,27 @@
 
 
 
-## 🚀 경험한 기술 <a href="ee617614-0f5b-4b90-8829-774bf4b9f1af" id="ee617614-0f5b-4b90-8829-774bf4b9f1af"></a>
+## 🚀 경험한 기술 <a href="#ee617614-0f5b-4b90-8829-774bf4b9f1af" id="ee617614-0f5b-4b90-8829-774bf4b9f1af"></a>
 
 {% tabs %}
-{% tab title="Lenguage" %}
-JAVA
+{% tab title="Language" %}
+Java OpenJDK 1.8.0
 
 JAVASCRIPT
 {% endtab %}
 
 {% tab title="DBMS" %}
-Oracle
+ORACLE XE 11g
 
-Postgres
+Postgres 13.4
 {% endtab %}
 
 {% tab title="FrameWork" %}
-Spring
+Spring Framework 5
 
-Spring Boot
+SpSpring boot 2.5.4
 
-MyBatis
+MyBatis 3
 
 Hibernated
 {% endtab %}
@@ -75,6 +75,8 @@ CSS3
 JSP
 
 Thyme leaf
+
+ajax
 {% endtab %}
 
 {% tab title="Develop Tools" %}
@@ -90,7 +92,7 @@ Thyme leaf
 
 
 
-## 🚀포트폴리오 보기 <a href="13992f2a-0438-4403-a011-68fd3f86be8e" id="13992f2a-0438-4403-a011-68fd3f86be8e"></a>
+## 🚀포트폴리오 보기 <a href="#13992f2a-0438-4403-a011-68fd3f86be8e" id="13992f2a-0438-4403-a011-68fd3f86be8e"></a>
 
 
 
