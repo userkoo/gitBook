@@ -20,7 +20,7 @@ coverY: 0
 
 ![](../../.gitbook/assets/개발환경.PNG)
 
-&#x20;이 프로젝트의 개발 환경** 특징으로는 국비 학원에서 배우지 않은 여러 스킬들을 사용한 것** 입니다.&#x20;
+&#x20;이 프로젝트의 개발 환경 **특징으로는 국비 학원에서 배우지 않은 여러 스킬들을 사용한 것** 입니다.&#x20;
 
 Postgres와 JPA를 사용하기로 정하면서 형상관리 툴도 SourceTree를 개발 툴은 Intelli J와 DBeaver를 사용하기로 결정했습니다.&#x20;
 
@@ -47,18 +47,6 @@ Postgres와 JPA를 사용하기로 정하면서 형상관리 툴도 SourceTree�
 * 아이러니 프로젝트를 진행하며 나온 산출물입니다.
 
 {% embed url="https://www.notion.so/2-I-Learn-E-0288cd9be83b4b8ab902a89f3aa564fb" %}
-
-
-
-&#x20;
-
-
-
-
-
-
-
-
 
 
 
