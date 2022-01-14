@@ -2,7 +2,7 @@
 
 ### 🚀'개발자' 구본근을 소개합니다. <a href="#ecba6588-f835-42c0-a7c9-4614e0ecb11c" id="ecba6588-f835-42c0-a7c9-4614e0ecb11c"></a>
 
-<img src=".gitbook/assets/(.gitbook/assets/asdasdasfqwr32342352345345.jpg).png" width="150" height="150">
+<img src=".gitbook/assets/asdasdasfqwr32342352345345.jpg" width="150" height="150">
 
 * **#인내 #성실 #책임**
 
